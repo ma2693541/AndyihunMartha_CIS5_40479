@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=cpptemplate_2
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/cpptemplate_2
+CND_ARTIFACT_NAME_Debug=gaddis_8thed_chap2_prob2_salespred
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/gaddis_8thed_chap2_prob2_salespred
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=cpptemplate2.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/cpptemplate2.tar
+CND_PACKAGE_NAME_Debug=gaddis8thedchap2prob2salespred.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/gaddis8thedchap2prob2salespred.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=cpptemplate_2
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/cpptemplate_2
+CND_ARTIFACT_NAME_Release=gaddis_8thed_chap2_prob2_salespred
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/gaddis_8thed_chap2_prob2_salespred
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=cpptemplate2.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/cpptemplate2.tar
+CND_PACKAGE_NAME_Release=gaddis8thedchap2prob2salespred.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/gaddis8thedchap2prob2salespred.tar
 #
 # include compiler specific variables
 #

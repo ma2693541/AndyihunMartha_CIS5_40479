@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CppTemplate_5
+PROJECTNAME=Gaddis_8thEd_Chap2_Prob16_DiamondPatern
 
 # Active Configuration
 DEFAULTCONF=Debug

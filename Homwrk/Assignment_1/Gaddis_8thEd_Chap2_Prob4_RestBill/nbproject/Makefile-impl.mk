@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CppTemplate_6
+PROJECTNAME=Gaddis_8thEd_Chap2_Prob4_RestBill
 
 # Active Configuration
 DEFAULTCONF=Debug
