@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Gaddis_8thEd_Chap3_Prob9_CaloriesConsm_1
+PROJECTNAME=Gaddis_8thEd_Chap3_Prob15_PropertyTax
 
 # Active Configuration
 DEFAULTCONF=Debug
