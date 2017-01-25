@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Gaddis_8thEd_Chap5_Prob3_OceanLevels
+PROJECTNAME=Gaddis_8thEd_Chap5_Prob6_DistanceTravelled_1_1
 
 # Active Configuration
 DEFAULTCONF=Debug

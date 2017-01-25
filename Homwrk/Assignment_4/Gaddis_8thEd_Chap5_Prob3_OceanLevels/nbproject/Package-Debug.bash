@@ -13,9 +13,9 @@ CND_BUILDDIR=build
 CND_DLIB_EXT=dll
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8thed_chap5_prob12_celiustofaherenait
-OUTPUT_BASENAME=gaddis_8thed_chap5_prob12_celiustofaherenait
-PACKAGE_TOP_DIR=gaddis8thedchap5prob12celiustofaherenait/
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8thed_chap5_prob3_oceanlevels
+OUTPUT_BASENAME=gaddis_8thed_chap5_prob3_oceanlevels
+PACKAGE_TOP_DIR=gaddis8thedchap5prob3oceanlevels/
 
 # Functions
 function checkReturnCode
@@ -60,15 +60,15 @@ mkdir -p ${NBTMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory "${NBTMPDIR}/gaddis8thedchap5prob12celiustofaherenait/bin"
+makeDirectory "${NBTMPDIR}/gaddis8thedchap5prob3oceanlevels/bin"
 copyFileToTmpDir "${OUTPUT_PATH}.exe" "${NBTMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}.exe" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedchap5prob12celiustofaherenait.tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedchap5prob3oceanlevels.tar
 cd ${NBTMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedchap5prob12celiustofaherenait.tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedchap5prob3oceanlevels.tar *
 checkReturnCode
 
 # Cleanup
