@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=cpptemplate_13
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/cpptemplate_13
+CND_ARTIFACT_NAME_Debug=gaddis_8thed_chap6_prob1_markup
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/gaddis_8thed_chap6_prob1_markup
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=cpptemplate13.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/cpptemplate13.tar
+CND_PACKAGE_NAME_Debug=gaddis8thedchap6prob1markup.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/gaddis8thedchap6prob1markup.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=cpptemplate_13
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/cpptemplate_13
+CND_ARTIFACT_NAME_Release=gaddis_8thed_chap6_prob1_markup
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/gaddis_8thed_chap6_prob1_markup
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=cpptemplate13.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/cpptemplate13.tar
+CND_PACKAGE_NAME_Release=gaddis8thedchap6prob1markup.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/gaddis8thedchap6prob1markup.tar
 #
 # include compiler specific variables
 #
