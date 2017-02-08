@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Gaddis_8thEd_Cahp7_Prob7_NumberAnalysisProgram_1
+PROJECTNAME=Gaddis_8thEd_Cahp7_Prob19_2DArrayOperations
 
 # Active Configuration
 DEFAULTCONF=Debug

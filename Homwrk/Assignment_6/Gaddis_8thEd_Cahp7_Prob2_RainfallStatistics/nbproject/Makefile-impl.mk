@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CppApplication_2
+PROJECTNAME=Gaddis_8thEd_Cahp7_Prob2_RainfallStatistics
 
 # Active Configuration
 DEFAULTCONF=Debug

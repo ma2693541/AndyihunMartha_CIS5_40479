@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Gaddis_8thEd_Cahp7_Prob3_Chips&Salsa
+PROJECTNAME=Gaddis_8thEd_Cahp7_Prob3_Chips_Salsa
 
 # Active Configuration
 DEFAULTCONF=Debug

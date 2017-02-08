@@ -13,9 +13,9 @@ CND_BUILDDIR=build
 CND_DLIB_EXT=dll
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8thed_cahp7_prob14_lotteryapplication
-OUTPUT_BASENAME=gaddis_8thed_cahp7_prob14_lotteryapplication
-PACKAGE_TOP_DIR=gaddis8thedcahp7prob14lotteryapplication/
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8thed_cahp7_prob9_payroll
+OUTPUT_BASENAME=gaddis_8thed_cahp7_prob9_payroll
+PACKAGE_TOP_DIR=gaddis8thedcahp7prob9payroll/
 
 # Functions
 function checkReturnCode
@@ -60,15 +60,15 @@ mkdir -p ${NBTMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory "${NBTMPDIR}/gaddis8thedcahp7prob14lotteryapplication/bin"
+makeDirectory "${NBTMPDIR}/gaddis8thedcahp7prob9payroll/bin"
 copyFileToTmpDir "${OUTPUT_PATH}.exe" "${NBTMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}.exe" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob14lotteryapplication.tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob9payroll.tar
 cd ${NBTMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob14lotteryapplication.tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob9payroll.tar *
 checkReturnCode
 
 # Cleanup

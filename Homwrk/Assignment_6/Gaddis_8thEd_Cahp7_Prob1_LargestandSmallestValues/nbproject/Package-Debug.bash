@@ -13,9 +13,9 @@ CND_BUILDDIR=build
 CND_DLIB_EXT=dll
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8thed_cahp7_prob1_largest_smalestbvalues
-OUTPUT_BASENAME=gaddis_8thed_cahp7_prob1_largest_smalestbvalues
-PACKAGE_TOP_DIR=gaddis8thedcahp7prob1largestsmalestbvalues/
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8thed_cahp7_prob1_largestandsmallestvalues
+OUTPUT_BASENAME=gaddis_8thed_cahp7_prob1_largestandsmallestvalues
+PACKAGE_TOP_DIR=gaddis8thedcahp7prob1largestandsmallestvalues/
 
 # Functions
 function checkReturnCode
@@ -60,15 +60,15 @@ mkdir -p ${NBTMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory "${NBTMPDIR}/gaddis8thedcahp7prob1largestsmalestbvalues/bin"
+makeDirectory "${NBTMPDIR}/gaddis8thedcahp7prob1largestandsmallestvalues/bin"
 copyFileToTmpDir "${OUTPUT_PATH}.exe" "${NBTMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}.exe" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob1largestsmalestbvalues.tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob1largestandsmallestvalues.tar
 cd ${NBTMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob1largestsmalestbvalues.tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8thedcahp7prob1largestandsmallestvalues.tar *
 checkReturnCode
 
 # Cleanup
